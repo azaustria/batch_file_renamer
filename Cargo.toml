@@ -1,0 +1,6 @@
+[package]
+name = "batch_file_renamer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
